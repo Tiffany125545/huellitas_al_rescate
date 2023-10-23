@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.img1{
+    margin: 15px;
+}
+
+.im2{
+    margin: 15px;
+}
+
+.img3{
+    margin: 15px;
+}

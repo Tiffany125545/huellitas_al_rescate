@@ -1,0 +1,79 @@
+.contenedor{
+    display: flex;
+}
+
+.img-1{
+    margin-left: 50px;
+}
+
+.img-2{
+    margin-left: 60px;
+}
+
+.img-3{
+    margin-left: 60px;
+}
+
+.img-4{
+    margin-left: 60px;
+}
+
+.texto_img1{
+    text-align: center;
+    
+}
+
+.texto_img2{
+    text-align: center;
+}
+
+.texto_img3{
+    text-align: center;
+}
+
+.texto_img4{
+    text-align: center;
+}
+
+.margen_info{
+    margin: 20px;
+}
+
+.margen_textoinfo{
+    margin: 20px;
+}
+
+.margen_contac{
+    margin: 20px;
+}
+
+.img_gmail{
+    margin: 10px;
+}
+.contenedor2{
+    display: flex;
+}
+
+.contenedor3{
+    display: flex;
+}
+
+.img_telefono{
+    margin: 10px;
+}
+
+.contenedor4{
+    display: flex;
+}
+
+.img_wpp{
+    margin: 10px;
+}
+.contenedor5{
+    justify-content: center;
+    display: flex;
+}
+
+#colorcontenedor1{
+    color: black;
+}

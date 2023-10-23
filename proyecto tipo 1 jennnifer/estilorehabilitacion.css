@@ -1,0 +1,41 @@
+.margen_rehabilitacion{
+    margin: 10px;
+}
+
+.contenedor3{
+    text-align: center;
+}
+
+.img1{
+    margin: 15px;
+    margin-right: 150px;
+}
+
+.img2{
+    margin: 15px;
+    margin-right: 150px;
+}
+
+.img3{
+    margin: 15px;
+    margin-right: 10px;
+}
+
+.contenedor{
+    display: flex;
+    
+}
+
+.img4{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.img5{
+    margin-right: 200px ;
+}
+
+.texto_imgnequi{
+    text-align: center;
+}
+
